@@ -1,19 +1,3 @@
-# Shailja Sharma
-
-## hey there!
-
-I live in **Pune**,
-Pune is *amazing*
-
-
-## Reading
-
-I love reading
-
-1. Quiet
-2. Animal Farm
-3. Thinking fast and slow
-
-##contact me
-
-fdnkfdk
+##The unix workbench course assignment
+\n**Make date**: Sun, Mar 31, 2019 10:25:51 AM
+29

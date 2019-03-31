@@ -1,20 +1,19 @@
-#!/user/bin/env bash
+#!/bin/bash
 #File: guessingame.sh
 
 echo "Hi, welcome to the game"
 
-function ask{
+function ask {
 	echo "pls enter the number of files"
 	read guess
-	files = $(ls -l|wc -l)
+	files=$(ls -l|wc -l)
 }
 
 ask
 
-while [[ $guess -ne $files]]
+while [[ $guess -ne $files ]]
 do
-
-if [[$guess -lt $files]]
+if [[ $guess -lt $files ]]
 then
 	echo "too low"
 else
@@ -26,5 +25,5 @@ ask
 done
 
 echo "Congrats you guessed it right, these are the files"
-echo  ls -l
+
 
