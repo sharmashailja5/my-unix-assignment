@@ -1,1 +1,0 @@
-\n**No. of line in guessinggame.sh**
